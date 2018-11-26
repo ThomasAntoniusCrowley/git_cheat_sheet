@@ -13,3 +13,5 @@ Please submit any ofyour own tips
 ### Reset the upstream branch for the new-name local branch.
 * Switch to the branch
 * git push origin -u new-name
+
+## [Change remote URL](https://help.github.com/articles/changing-a-remote-s-url/#platform-linux)
