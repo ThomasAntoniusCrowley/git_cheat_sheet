@@ -15,3 +15,6 @@ Please submit any ofyour own tips
 * git push origin -u new-name
 
 ## [Change remote URL](https://help.github.com/articles/changing-a-remote-s-url/#platform-linux)
+
+## Did you fuck up?
+http://ohshitgit.com
